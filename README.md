@@ -1,2 +1,2 @@
 # Checkers-Game
-Simple checkers game used with Java. 
+Simple two player checkers game created with Java. 
